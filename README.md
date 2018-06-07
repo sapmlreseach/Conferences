@@ -1,3 +1,3 @@
 # Conferences
-# this repository was created to make our conference reports publicly available
+# this repository was created to show our conference reports
 # Enjoy reading!
